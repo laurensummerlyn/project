@@ -1,0 +1,10 @@
+C:\Users\lswat\source\repos\21\21\bin\Debug\21.exe.config
+C:\Users\lswat\source\repos\21\21\bin\Debug\21.exe
+C:\Users\lswat\source\repos\21\21\bin\Debug\21.pdb
+C:\Users\lswat\source\repos\21\21\obj\Debug\21.csprojAssemblyReference.cache
+C:\Users\lswat\source\repos\21\21\obj\Debug\_21.Form1.resources
+C:\Users\lswat\source\repos\21\21\obj\Debug\_21.Properties.Resources.resources
+C:\Users\lswat\source\repos\21\21\obj\Debug\21.csproj.GenerateResource.cache
+C:\Users\lswat\source\repos\21\21\obj\Debug\21.csproj.CoreCompileInputs.cache
+C:\Users\lswat\source\repos\21\21\obj\Debug\21.exe
+C:\Users\lswat\source\repos\21\21\obj\Debug\21.pdb
